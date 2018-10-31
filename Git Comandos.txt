@@ -1,0 +1,19 @@
+
+
+GIT CLONE HTTP://repositorio;
+
+//ubicarse en la carpeta git
+
+git status (para saber)
+checkout -b desarrollo (crear una nueva rama)
+git add -A (sube el proyecto)
+git commit (confirma)
+
+COMMIT
+
+DESCRIPCION
+
+secuencia de comandos
+I
+ESC 
+:WQ
